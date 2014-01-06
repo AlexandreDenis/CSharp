@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\TestCours2\bin\Debug\TestCours2.exe.config
+H:\GitHub\C#\TestCours\TestCours2\obj\Debug\TestCours2.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\TestCours2\bin\Debug\TestCours2.exe
+H:\GitHub\C#\TestCours\TestCours2\bin\Debug\TestCours2.pdb
+H:\GitHub\C#\TestCours\TestCours2\obj\Debug\TestCours2.exe
+H:\GitHub\C#\TestCours\TestCours2\obj\Debug\TestCours2.pdb
