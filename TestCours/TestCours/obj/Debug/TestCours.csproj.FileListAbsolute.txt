@@ -1,0 +1,6 @@
+H:\Deuxieme_annee\C#\TestCours\TestCours\bin\Debug\TestCours.exe.config
+H:\Deuxieme_annee\C#\TestCours\TestCours\bin\Debug\TestCours.exe
+H:\Deuxieme_annee\C#\TestCours\TestCours\bin\Debug\TestCours.pdb
+H:\Deuxieme_annee\C#\TestCours\TestCours\obj\Debug\TestCours.csprojResolveAssemblyReference.cache
+H:\Deuxieme_annee\C#\TestCours\TestCours\obj\Debug\TestCours.exe
+H:\Deuxieme_annee\C#\TestCours\TestCours\obj\Debug\TestCours.pdb
