@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace TestCours2
 {
-
     /// <summary>
     /// Sans découvert possible
     /// </summary>
