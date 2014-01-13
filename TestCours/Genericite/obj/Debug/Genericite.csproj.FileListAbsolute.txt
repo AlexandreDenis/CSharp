@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\Genericite\bin\Debug\Genericite.exe.config
+H:\GitHub\C#\TestCours\Genericite\obj\Debug\Genericite.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\Genericite\bin\Debug\Genericite.exe
+H:\GitHub\C#\TestCours\Genericite\bin\Debug\Genericite.pdb
+H:\GitHub\C#\TestCours\Genericite\obj\Debug\Genericite.exe
+H:\GitHub\C#\TestCours\Genericite\obj\Debug\Genericite.pdb

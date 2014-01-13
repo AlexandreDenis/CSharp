@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCours", "TestCours\TestCours.csproj", "{F3AFA20F-3D71-451E-8D62-90D187B2298B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCours2", "TestCours2\TestCours2.csproj", "{62FFDCF9-6484-4BB1-BA05-26C8A98C2A80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericite", "Genericite\Genericite.csproj", "{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{F3AFA20F-3D71-451E-8D62-90D187B2298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AFA20F-3D71-451E-8D62-90D187B2298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AFA20F-3D71-451E-8D62-90D187B2298B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62FFDCF9-6484-4BB1-BA05-26C8A98C2A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62FFDCF9-6484-4BB1-BA05-26C8A98C2A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62FFDCF9-6484-4BB1-BA05-26C8A98C2A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62FFDCF9-6484-4BB1-BA05-26C8A98C2A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
