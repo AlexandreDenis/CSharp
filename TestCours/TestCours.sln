@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCours", "TestCours\Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericite", "Genericite\Genericite.csproj", "{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecuriteTest", "SecuriteTest\SecuriteTest.csproj", "{5CCC65AD-F081-4577-8894-D45E6ECEE444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0C4EAB-6DD2-4EC3-A695-925BCD60585E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCC65AD-F081-4577-8894-D45E6ECEE444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCC65AD-F081-4577-8894-D45E6ECEE444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCC65AD-F081-4577-8894-D45E6ECEE444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCC65AD-F081-4577-8894-D45E6ECEE444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

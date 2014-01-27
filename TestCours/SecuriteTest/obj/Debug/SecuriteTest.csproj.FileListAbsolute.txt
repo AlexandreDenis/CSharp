@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\SecuriteTest\bin\Debug\SecuriteTest.exe.config
+H:\GitHub\C#\TestCours\SecuriteTest\bin\Debug\SecuriteTest.exe
+H:\GitHub\C#\TestCours\SecuriteTest\bin\Debug\SecuriteTest.pdb
+H:\GitHub\C#\TestCours\SecuriteTest\obj\Debug\SecuriteTest.exe
+H:\GitHub\C#\TestCours\SecuriteTest\obj\Debug\SecuriteTest.pdb
+H:\GitHub\C#\TestCours\SecuriteTest\obj\Debug\SecuriteTest.csprojResolveAssemblyReference.cache
