@@ -1,0 +1,9 @@
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\bin\Debug\SectionDeConfiguratio.exe.config
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\bin\Debug\SectionDeConfiguratio.exe
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\bin\Debug\SectionDeConfiguratio.pdb
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.Form1.resources
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.Properties.Resources.resources
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.csproj.GenerateResource.Cache
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.exe
+H:\GitHub\C#\TestCours\SectionDeConfiguratio\obj\Debug\SectionDeConfiguratio.pdb

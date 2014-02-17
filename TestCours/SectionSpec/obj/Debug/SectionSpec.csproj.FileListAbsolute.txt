@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\SectionSpec\bin\Debug\SectionSpec.exe.config
+H:\GitHub\C#\TestCours\SectionSpec\bin\Debug\SectionSpec.exe
+H:\GitHub\C#\TestCours\SectionSpec\bin\Debug\SectionSpec.pdb
+H:\GitHub\C#\TestCours\SectionSpec\obj\Debug\SectionSpec.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\SectionSpec\obj\Debug\SectionSpec.exe
+H:\GitHub\C#\TestCours\SectionSpec\obj\Debug\SectionSpec.pdb

@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\AppSettings\bin\Debug\AppSettings.exe.config
+H:\GitHub\C#\TestCours\AppSettings\bin\Debug\AppSettings.exe
+H:\GitHub\C#\TestCours\AppSettings\bin\Debug\AppSettings.pdb
+H:\GitHub\C#\TestCours\AppSettings\obj\Debug\AppSettings.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\AppSettings\obj\Debug\AppSettings.exe
+H:\GitHub\C#\TestCours\AppSettings\obj\Debug\AppSettings.pdb
