@@ -1,0 +1,5 @@
+H:\GitHub\C#\TestCours\TestLINQ\bin\Debug\TestLINQ.exe.config
+H:\GitHub\C#\TestCours\TestLINQ\bin\Debug\TestLINQ.exe
+H:\GitHub\C#\TestCours\TestLINQ\bin\Debug\TestLINQ.pdb
+H:\GitHub\C#\TestCours\TestLINQ\obj\Debug\TestLINQ.exe
+H:\GitHub\C#\TestCours\TestLINQ\obj\Debug\TestLINQ.pdb

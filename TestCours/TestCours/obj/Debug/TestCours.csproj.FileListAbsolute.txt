@@ -7,3 +7,6 @@ H:\Deuxieme_annee\C#\TestCours\TestCours\obj\Debug\TestCours.pdb
 H:\GitHub\C#\TestCours\TestCours\bin\Debug\TestCours.exe.config
 H:\GitHub\C#\TestCours\TestCours\obj\Debug\TestCours.exe
 H:\GitHub\C#\TestCours\TestCours\obj\Debug\TestCours.pdb
+H:\GitHub\C#\TestCours\TestCours\bin\Debug\TestCours.exe
+H:\GitHub\C#\TestCours\TestCours\bin\Debug\TestCours.pdb
+H:\GitHub\C#\TestCours\TestCours\obj\Debug\TestCours.csprojResolveAssemblyReference.cache

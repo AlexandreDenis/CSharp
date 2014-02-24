@@ -1,0 +1,6 @@
+H:\GitHub\C#\TestCours\TestLINQ2\bin\Debug\TestLINQ2.exe.config
+H:\GitHub\C#\TestCours\TestLINQ2\bin\Debug\TestLINQ2.exe
+H:\GitHub\C#\TestCours\TestLINQ2\bin\Debug\TestLINQ2.pdb
+H:\GitHub\C#\TestCours\TestLINQ2\obj\Debug\TestLINQ2.csprojResolveAssemblyReference.cache
+H:\GitHub\C#\TestCours\TestLINQ2\obj\Debug\TestLINQ2.exe
+H:\GitHub\C#\TestCours\TestLINQ2\obj\Debug\TestLINQ2.pdb
